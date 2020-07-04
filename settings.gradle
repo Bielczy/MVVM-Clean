@@ -1,0 +1,2 @@
+rootProject.name='MVVM&Clean'
+include ':app'
